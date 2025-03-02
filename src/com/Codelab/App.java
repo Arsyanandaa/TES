@@ -1,4 +1,4 @@
-package com.codelab1;
+package com.Codelab;
 
 import java.time.LocalDate; // Import library untuk ambil tanggal sekarang atau bisa dibilang realtime
 import java.util.Scanner; // Import library supaya bisa ambil input dari user
